@@ -1,0 +1,14 @@
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\bin\Debug\net7.0\ac3.exe
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\bin\Debug\net7.0\ac3.deps.json
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\bin\Debug\net7.0\ac3.runtimeconfig.json
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\bin\Debug\net7.0\ac3.dll
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\bin\Debug\net7.0\ac3.pdb
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\obj\Debug\net7.0\ac3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\obj\Debug\net7.0\ac3.AssemblyInfoInputs.cache
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\obj\Debug\net7.0\ac3.AssemblyInfo.cs
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\obj\Debug\net7.0\ac3.csproj.CoreCompileInputs.cache
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\obj\Debug\net7.0\ac3.dll
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\obj\Debug\net7.0\refint\ac3.dll
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\obj\Debug\net7.0\ac3.pdb
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\obj\Debug\net7.0\ac3.genruntimeconfig.cache
+C:\Users\David\Desktop\m3uf5\practicasrestantesm3uf5\ac3\obj\Debug\net7.0\ref\ac3.dll
